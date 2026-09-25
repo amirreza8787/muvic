@@ -1,0 +1,179 @@
+# Cynex Music Player License
+
+**Copyright (c) 2026 Cynex Studio**
+**All Rights Reserved, except as expressly permitted by this License.**
+
+## 1. Definitions
+
+For the purposes of this License:
+
+**"Software"** means the Cynex Music Player source code, binaries, documentation, and associated materials distributed by Cynex Studio under this License.
+
+**"Original Software"** means the Software as originally published by Cynex Studio.
+
+**"Modified Version"** means any work based upon, derived from, or incorporating the Software or a substantial portion of its source code, including modified, translated, adapted, or extended versions.
+
+**"Non-Commercial Use"** means use that is not primarily intended for or directed toward commercial advantage, monetary compensation, or financial gain.
+
+**"Commercial Use"** means any use intended to generate revenue, monetary compensation, commercial advantage, or financial benefit, whether directly or indirectly.
+
+Commercial Use includes, without limitation:
+
+* Selling the Software or a Modified Version.
+* Selling, licensing, renting, leasing, or otherwise monetizing a product that incorporates the Software or a substantial portion of it.
+* Including the Software in a paid application, game, service, product, or software package.
+* Using the Software as part of a commercial service or business operation.
+* Distributing the Software as part of a product for which users are charged.
+* Monetizing a Modified Version through advertising, subscriptions, paid features, licensing fees, or similar mechanisms.
+
+## 2. Copyright and Ownership
+
+The Software is protected by applicable copyright and intellectual property laws.
+
+Cynex Studio retains all copyright and other intellectual property rights in the Original Software.
+
+This License grants permissions to use the Software under the conditions stated herein. It does not transfer ownership, copyright, or other intellectual property rights to any recipient.
+
+## 3. Non-Commercial Permission
+
+Subject to the terms of this License, Cynex Studio grants you a worldwide, non-exclusive, royalty-free, non-transferable license to:
+
+1. Access and inspect the source code.
+2. Use the Software for personal, educational, research, testing, and other Non-Commercial purposes.
+3. Modify, adapt, translate, and extend the Software.
+4. Create Modified Versions.
+5. Copy and redistribute the Software or Modified Versions free of charge for Non-Commercial purposes.
+
+These permissions apply only while you comply with this License.
+
+## 4. Commercial Use Requires Separate Permission
+
+No permission for Commercial Use is granted by this License.
+
+Any Commercial Use of the Software or a Modified Version requires a separate written Commercial License or other written authorization from Cynex Studio.
+
+A Commercial License may authorize specific uses and may require payment of a one-time fee, recurring fee, royalty, revenue share, or other agreed consideration.
+
+No person or organization may engage in Commercial Use merely because the Software is publicly available or because they have obtained, modified, or redistributed the source code.
+
+## 5. Use in Commercial Products
+
+Unless separately authorized in writing by Cynex Studio, you may not:
+
+* Incorporate the Software or a substantial portion of its source code into a product that is sold or monetized.
+* Distribute the Software as a component of a paid product.
+* Offer the Software as part of a paid service.
+* Sell access to the Software or a Modified Version.
+* Monetize a Modified Version.
+* Use the Software to provide a commercial service for which users or customers provide monetary compensation.
+
+A separate Commercial License may permit some or all of these activities under terms agreed with Cynex Studio.
+
+## 6. Modification and Attribution
+
+You may modify the Software for permitted Non-Commercial purposes.
+
+You must retain all existing copyright notices, license notices, and attribution notices contained in the Original Software.
+
+You must not remove, obscure, or alter copyright notices identifying Cynex Studio as the original author.
+
+If you distribute a Modified Version, you must clearly indicate that the Software has been modified.
+
+You must not falsely represent a Modified Version as the Original Software or falsely claim that the Original Software was created by you or another person or organization.
+
+## 7. Redistribution
+
+You may redistribute the Original Software or a Modified Version free of charge for Non-Commercial purposes, provided that:
+
+1. This License is included with the distribution.
+2. Copyright and attribution notices are retained.
+3. The distributor clearly identifies substantial modifications, where applicable.
+4. The distributor does not falsely claim authorship of the Original Software.
+5. No Commercial Use is made of the distributed Software or Modified Version.
+
+Redistribution does not grant the recipient any rights beyond those expressly provided by this License.
+
+## 8. Separate Components and Third-Party Materials
+
+The Software may contain or depend upon third-party libraries, assets, fonts, codecs, frameworks, or other materials.
+
+Such components may be subject to separate licenses and are not necessarily covered by this License.
+
+You are responsible for complying with all applicable third-party license terms.
+
+Nothing in this License grants rights to third-party intellectual property.
+
+## 9. Trademarks and Branding
+
+This License does not grant permission to use:
+
+* The name "Cynex Studio".
+* The name "Cynex".
+* Cynex Studio logos.
+* Cynex Studio trademarks.
+* Other branding or identifiers associated with Cynex Studio.
+
+Use of such names, trademarks, or branding requires separate permission where applicable.
+
+Forks and Modified Versions must not be presented in a manner that suggests endorsement, sponsorship, affiliation, or official status by Cynex Studio unless such relationship has been expressly authorized.
+
+## 10. No Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, OR ACCURACY.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, CYNEX STUDIO SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR OTHER DAMAGES ARISING FROM OR RELATED TO THE USE, MODIFICATION, DISTRIBUTION, OR INABILITY TO USE THE SOFTWARE.
+
+## 11. Termination
+
+This License is effective until terminated.
+
+Your rights under this License automatically terminate if you materially violate any of its terms.
+
+Upon termination, you must cease the activities that are no longer authorized under this License.
+
+Termination does not affect any rights or obligations that, by their nature, are intended to survive termination.
+
+## 12. No Sublicensing
+
+You may not grant, transfer, sublicense, or otherwise provide third parties with rights to the Software that exceed the rights granted to you under this License.
+
+A Commercial License may provide separate sublicensing rights where expressly stated.
+
+## 13. Reservation of Rights
+
+All rights not expressly granted by this License are reserved by Cynex Studio.
+
+Nothing in this License shall be interpreted as granting any right, title, or interest in the Software beyond the permissions expressly stated herein.
+
+## 14. Commercial Licensing
+
+For Commercial Use, a separate Commercial License must be obtained from Cynex Studio.
+
+Commercial licensing terms may include, but are not limited to:
+
+* One-time licensing fees.
+* Recurring licensing fees.
+* Revenue-based royalties.
+* Revenue-sharing arrangements.
+* Per-product or per-seat licensing.
+* Custom licensing conditions.
+
+Commercial licensing terms are determined separately between Cynex Studio and the prospective licensee.
+
+## 15. Governing Law
+
+This License shall be interpreted and enforced in accordance with the applicable laws agreed upon in a separate commercial agreement between Cynex Studio and the licensee.
+
+For Non-Commercial Use where no separate agreement exists, applicable intellectual property laws shall govern the rights and obligations of the parties to the extent required by law.
+
+## 16. Acceptance
+
+By using, modifying, or redistributing the Software under the permissions granted by this License, you acknowledge that you have read, understood, and agreed to the terms of this License.
+
+---
+
+**Copyright (c) 2026 Cynex Studio**
+
+**Cynex Music Player License**
+
+All rights reserved except as expressly granted above.
